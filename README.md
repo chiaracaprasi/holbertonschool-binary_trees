@@ -5,14 +5,29 @@
 
 This is C project about Binary Trees, BST data structures. 
 
+## Learning Objectives
+
+* What is a binary tree
+* What is the difference between a binary tree and a Binary Search Tree
+* What is the possible gain in terms of time complexity compared to linked lists
+* What are the depth, the height, the size of a binary tree
+* What are the different traversal methods to go through a binary tree
+* What is a complete, a full, a perfect, a balanced binary tree
+
+
 ![binar_tree-diagram](https://user-images.githubusercontent.com/91517809/180124667-09485f67-cade-43a2-9423-8764fef5e482.png) 
 ![binary_tree_search](https://user-images.githubusercontent.com/91517809/180125201-69796539-9f29-42bb-b7a9-e3c95bb5c5ad.png)![tree_traversal](https://user-images.githubusercontent.com/91517809/180125447-c4582dac-51d4-41a6-8011-c08744568c9d.png)
 
 
 Images credit: https://dev.to/melguachun/basics-of-the-binary-tree-1h2e
 
+## Usage
 
-## Table of contents
+* All files were compiled using ` gcc -Wall -Wextra -Werror -pedantic ` 
+* All files were linted for syntax and style with [Betty](https://github.com/holbertonschool/Betty)
+
+
+## Table of contents (Mandatory Tasks)
 Files | Function Description
 ----- | -----------
 [0-binary_tree_node.c](./0-binary_tree_node.c) | creates a binary tree node
@@ -34,6 +49,7 @@ Files | Function Description
 [16-binary_tree_is_perfect.c](./16-binary_tree_is_perfect.c) | checks if a binary tree is perfect
 [17-binary_tree_sibling.c](./17-binary_tree_sibling.c) | finds the sibling of a node
 [18-binary_tree_uncle.c](./18-binary_tree_uncle.c) | finds the uncle of a node
+
 
 ### Authors
 - Chiara Caprasi
