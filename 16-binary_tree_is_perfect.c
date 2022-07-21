@@ -46,7 +46,7 @@ int isPerfectTree(const binary_tree_t *tree, int depth, int level)
 		return (0);
 
 	return (isPerfectTree(tree->left, depth, level + 1) &&
-			sPerfectTree(tree->right, depth, level + 1));
+			isPerfectTree(tree->right, depth, level + 1));
 }
 
 /**
