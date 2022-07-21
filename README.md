@@ -1,8 +1,12 @@
 #  C - Binary tree 🌲🌲🌲
 
+
 ## Description
 
 This is C project about Binary Trees, BST and AVL Trees data structures. 
+
+![binar_tree-diagram](https://user-images.githubusercontent.com/91517809/180124667-09485f67-cade-43a2-9423-8764fef5e482.png)
+
 
 ## Table of contents
 Files | Function Description
@@ -30,3 +34,5 @@ Files | Function Description
 ### Authors
 - Chiara Caprasi
 - Yuan Fang
+
+
