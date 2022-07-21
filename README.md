@@ -3,9 +3,13 @@
 
 ## Description
 
-This is C project about Binary Trees, BST and AVL Trees data structures. 
+This is C project about Binary Trees, BST data structures. 
 
-![binar_tree-diagram](https://user-images.githubusercontent.com/91517809/180124667-09485f67-cade-43a2-9423-8764fef5e482.png)
+![binar_tree-diagram](https://user-images.githubusercontent.com/91517809/180124667-09485f67-cade-43a2-9423-8764fef5e482.png) 
+![binary_tree_search](https://user-images.githubusercontent.com/91517809/180125201-69796539-9f29-42bb-b7a9-e3c95bb5c5ad.png)![tree_traversal](https://user-images.githubusercontent.com/91517809/180125447-c4582dac-51d4-41a6-8011-c08744568c9d.png)
+
+
+Images credit: https://dev.to/melguachun/basics-of-the-binary-tree-1h2e
 
 
 ## Table of contents
